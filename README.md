@@ -88,6 +88,6 @@ O objetivo deste projeto foi praticar automação com Python e demonstrar como t
 
 ---
 
-# 👩‍💻 Desenvolvido por
+# 👩‍💻 Desenvolvido por:
 
-Mel Leticia
+# Mel Leticia Assis
